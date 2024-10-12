@@ -1,0 +1,6 @@
+# Ignore the a.out binary
+a.out
+
+# Ignore object files
+*.o
+
