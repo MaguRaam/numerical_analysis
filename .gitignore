@@ -6,3 +6,6 @@ a.out
 
 # Ignore pdf files
 *.pdf
+
+# Ignore data files
+*.dat
