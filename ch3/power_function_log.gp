@@ -11,7 +11,7 @@ set xrange [1:1e6]
 set ytics format "10^{%L}" scale 2 
 set xtics format "10^{%L}" scale 2
 
-# Unset minor ticks along x
+# Unset minor ticks along y and x
 unset mytics
 unset mxtics
 

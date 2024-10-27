@@ -29,7 +29,7 @@ int main()
     // print header
     printf("%2s %20s %20s %20s\n", "n", "e_approx", "e", "error");
  
-    for (int n = 0; n <= 30; n+=2)
+    for (int n = 0; n <= 20; n+=2)
     {
         double eapprox = euler(n);
         printf("%2d %20.15f %20.15f %20.15f\n", n, eapprox, E, fabs(E - eapprox));
