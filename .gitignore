@@ -8,4 +8,8 @@ a.out
 *.pdf
 
 # Ignore data files
-*.dat
+*.dat 
+*.txt
+
+# Ignore png files
+*.png
